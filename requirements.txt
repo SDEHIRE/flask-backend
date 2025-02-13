@@ -1,0 +1,12 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+flask-cors
+deepface
+opencv-python
+Pillow
+tensorflow
+gunicorn
+tf-keras
+pymongo
+nltk
+
